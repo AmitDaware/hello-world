@@ -58,6 +58,7 @@ class Form extends Component {
             <option value="react">React</option>
             <option value="angular">Angular</option>
             <option value="Vue">Vue</option>
+            <option value="Node">Node</option>
           </select>
         </div>
         <button type="submit">Submit</button>
